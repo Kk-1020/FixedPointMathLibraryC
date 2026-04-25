@@ -1,8 +1,7 @@
 # Fixed-Point Math Library
 
 A portable, FPU-free fixed-point arithmetic library in C99 targeting
-embedded processors like TI's C2000 and MSP430 families that lack a hardware
-floating-point unit.
+embedded processors
 
 ## Features
 
@@ -152,7 +151,7 @@ Q31 Trig (10,000 random angles):
 
 ---
 
-## Resume Bullet
+## Key Achievements
 
 > Implemented a fixed-point arithmetic library in C99 (Q15/Q31 formats) with
 > saturating arithmetic, a 257-entry quarter-wave lookup table (sin/cos) and a
